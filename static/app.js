@@ -68,4 +68,18 @@ class Chatbox {
             textField.value = '';
         });
     }
+
+    updateChatText(chatbox) {
+        var $html = '';
+        this.messages.slice().reverse().forEach(function(item, number) {
+            if (item.name === "Smith") {
+                html += '<div class="messages__item messages__item--visitor">' + item.message + '</div>'
+            } else {
+                html += '<div class="messages__item messages__item--operator">' + item.message + '</div>'
+            }
+        });
+        
+        const _chatMessage = chatbox.querySelector('.chatbox__messages');
+        _chatMessage.innerHTML = html;
+    }
 }
