@@ -3,6 +3,10 @@
         "chatbox",
         "endcomment",
         "jsonify",
-        "tojson"
+        "nltk",
+        "punkt",
+        "tojson",
+        "torchvision",
+        "venv"
     ]
 }
