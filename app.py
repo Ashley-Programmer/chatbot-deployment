@@ -13,5 +13,8 @@ def predict(): # POST method
     text = request.get_json().get("message")
     # TODO: check if text is valid
     response = get_response(text)
-    message = {"answer": response}
-    return jsonify(message)
+    message = {"answer": response} # create a dictionary to send as a response
+    return jsonify(message) # send the response as JSON
+
+if __name__ == "__main__":
+    app.run(debug=True) # run the app in debug mode
