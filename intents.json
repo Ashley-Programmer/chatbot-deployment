@@ -15,8 +15,8 @@
       "responses": [
         "Hello! Welcome to AI Global Networks, where we innovate the future with AI-driven solutions!",
         "Hi there! Ready to amplify your business with our cutting-edge AI tools?",
-        "Hey! Thanks for connecting—how can we empower your digital journey today?",
-        "Good day! Let’s explore how AI Global Networks can transform your business."
+        "Hey! Thanks for connecting - how can we empower your digital journey today?",
+        "Good day! Let us explore how AI Global Networks can transform your business."
       ]
     },
     {
@@ -26,12 +26,12 @@
         "See you later",
         "Goodbye",
         "Thanks, bye",
-        "I’m done",
+        "I'm done",
         "Catch you later"
       ],
       "responses": [
         "See you soon! Contact us at +27 63 691 4619 or hello@aiglobalnetworks.co.za.",
-        "Goodbye! Let’s keep shaping the future together—visit www.aiglobalnetworks.co.za!",
+        "Goodbye! Let’s keep shaping the future together-visit www.aiglobalnetworks.co.za!",
         "Thanks for stopping by! Reach out anytime for your AI-driven transformation."
       ]
     },
@@ -40,14 +40,14 @@
       "patterns": [
         "Thanks",
         "Thank you",
-        "That’s helpful",
+        "That's helpful",
         "Thanks a lot",
         "Appreciate it",
         "Thank you so much"
       ],
       "responses": [
-        "Our pleasure! We’re here to drive your success with AI innovation.",
-        "Happy to assist! Let’s keep pushing boundaries together.",
+        "Our pleasure! We are here to drive your success with AI innovation.",
+        "Happy to assist! Let's keep pushing boundaries together.",
         "Any time! Your growth is our mission at AI Global Networks."
       ]
     },
@@ -59,7 +59,7 @@
         "What solutions do you have?",
         "Tell me about your products",
         "What do you sell?",
-        "What’s your portfolio?"
+        "What's your portfolio?"
       ],
       "responses": [
         "We provide AI-powered solutions like NFT Tags for asset digitization, 24/7 AI Chatbots, Smart Analytics Dashboards, Project Cost Calculators, Voice Recognition Tools, and Sensi-Seizure health tech. Learn more at www.aiglobalnetworks.co.za!",
@@ -72,7 +72,7 @@
         "Tell me about NFT Tags",
         "What are your NFC tags?",
         "How do NFT Tags work?",
-        "What’s the NFT Tag app?",
+        "What's the NFT Tag app?",
         "Can you explain blockchain tags?"
       ],
       "responses": [
@@ -91,7 +91,7 @@
       ],
       "responses": [
         "Our 24/7 AI Chatbots handle customer queries with human-like precision, boosting engagement and cutting support costs. Ready to streamline your customer interactions?",
-        "AI Chatbots from AI Global Networks provide round-the-clock support, automate responses, and enhance customer engagement. Let’s get yours set up—reach out at +27 63 691 4619!"
+        "AI Chatbots from AI Global Networks provide round-the-clock support, automate responses, and enhance customer engagement. Let's get yours set up-reach out at +27 63 691 4619!"
       ]
     },
     {
@@ -100,11 +100,11 @@
         "What is Sensi-Seizure?",
         "Tell me about your health tech",
         "How does Sensi-Seizure work?",
-        "What’s your seizure detection tool?",
+        "What's your seizure detection tool?",
         "Can you explain your wearable tech?"
       ],
       "responses": [
-        "Sensi-Seizure is our life-saving health tech, integrating wearables to detect seizures and trigger emergency alerts. It’s designed to enhance safety and proactive care.",
+        "Sensi-Seizure is our life-saving health tech, integrating wearables to detect seizures and trigger emergency alerts. It's designed to enhance safety and proactive care.",
         "Our Sensi-Seizure wearable tech monitors for seizures and sends real-time alerts for rapid response. Interested in healthcare innovation? Visit www.aiglobalnetworks.co.za."
       ]
     },
@@ -114,7 +114,7 @@
         "What is your analytics dashboard?",
         "Tell me about Smart Analytics",
         "How does your dashboard work?",
-        "What’s the smart analytics tool?",
+        "What's the smart analytics tool?",
         "Can you explain your data insights?"
       ],
       "responses": [
@@ -133,8 +133,8 @@
         "What about finance or education?"
       ],
       "responses": [
-        "We empower Healthcare with AI diagnostics and wearables, Finance with predictive analytics and fraud detection, and Education with adaptive learning and AI tutors. Let’s transform your industry!",
-        "Our AI solutions impact Healthcare, Finance, and Education, delivering tailored tools for better outcomes. Tell us your industry, and we’ll customize a solution!"
+        "We empower Healthcare with AI diagnostics and wearables, Finance with predictive analytics and fraud detection, and Education with adaptive learning and AI tutors. Let's transform your industry!",
+        "Our AI solutions impact Healthcare, Finance, and Education, delivering tailored tools for better outcomes. Tell us your industry, and we'll customize a solution!"
       ]
     },
     {
@@ -144,27 +144,27 @@
         "What is your mission?",
         "What are your goals?",
         "What do you stand for?",
-        "What’s your purpose?",
+        "What's your purpose?",
         "Why does AI Global Networks exist?"
       ],
       "responses": [
         "Our vision is to be your innovation partner, crafting AI solutions that solve real challenges. Our mission is to automate workflows with AI-powered CRM tools, letting you focus on growth.",
-        "We’re here to bridge vision and execution, delivering seamless AI tools that drive efficiency and impact. Ready to transform? Contact us at hello@aiglobalnetworks.co.za!"
+        "We're here to bridge vision and execution, delivering seamless AI tools that drive efficiency and impact. Ready to transform? Contact us at hello@aiglobalnetworks.co.za!"
       ]
     },
     {
       "tag": "contact",
       "patterns": [
         "How can I contact you?",
-        "What’s your contact info?",
+        "What's your contact info?",
         "How do I reach AI Global Networks?",
-        "What’s your phone number?",
-        "What’s your email?",
+        "What's your phone number?",
+        "What's your email?",
         "Where are you located?"
       ],
       "responses": [
         "Reach us at +27 63 691 4619, email hello@aiglobalnetworks.co.za, or visit www.aiglobalnetworks.co.za. Our office is at 169 Oxford Road, Rosebank, Sandton.",
-        "Contact us via phone at +27 63 691 4619, email at hello@aiglobalnetworks.co.za, or stop by 169 Oxford Road, Rosebank, Sandton. Let’s connect!"
+        "Contact us via phone at +27 63 691 4619, email at hello@aiglobalnetworks.co.za, or stop by 169 Oxford Road, Rosebank, Sandton. Let's connect!"
       ]
     },
     {
@@ -174,11 +174,11 @@
         "Who runs the company?",
         "Tell me about your team",
         "Who are your founders?",
-        "Who’s on your leadership team?"
+        "Who's on your leadership team?"
       ],
       "responses": [
         "Our team includes Blaine Cook (Chairman & Founder), Lesedi Skhosana (Vice-Chairman & Co-Founder), Mpho Mtlomelo (PR & President of Women in AI), Clement Morare (Graphics & Design), Lerato Mohalane (Operations), and Junaid Alexander (UI/UX).",
-        "We’re driven by Blaine Cook (Founder), Lesedi Skhosana (Co-Founder), Mpho Mtlomelo (PR), Clement Morare (Design), Lerato Mohalane (Operations), and Junaid Alexander (UI/UX). Meet us at www.aiglobalnetworks.co.za!"
+        "We're driven by Blaine Cook (Founder), Lesedi Skhosana (Co-Founder), Mpho Mtlomelo (PR), Clement Morare (Design), Lerato Mohalane (Operations), and Junaid Alexander (UI/UX). Meet us at www.aiglobalnetworks.co.za!"
       ]
     },
     {
@@ -187,11 +187,11 @@
         "What are your core values?",
         "What principles guide you?",
         "What do you believe in?",
-        "What’s your company culture?",
+        "What's your company culture?",
         "What drives AI Global Networks?"
       ],
       "responses": [
-        "Our core values are Innovation (driving change with AI), Integrity (transparent, ethical practices), and Impact (creating real-world transformation). Let’s make an impact together!",
+        "Our core values are Innovation (driving change with AI), Integrity (transparent, ethical practices), and Impact (creating real-world transformation). Let's make an impact together!",
         "We live by Innovation, Integrity, and Impact—pushing boundaries, building trust, and delivering scalable AI solutions. Ready to join our mission?"
       ]
     },
@@ -205,8 +205,8 @@
         "Do you support large companies?"
       ],
       "responses": [
-        "We empower both startups and enterprises! From building a startup’s digital presence to scaling enterprise tech, our AI solutions are tailored to your needs.",
-        "Whether you’re a startup launching your first digital footprint or an enterprise scaling up, our AI tools drive efficiency and growth. Let’s talk about your goals!"
+        "We empower both startups and enterprises! From building a startup's digital presence to scaling enterprise tech, our AI solutions are tailored to your needs.",
+        "Whether you're a startup launching your first digital footprint or an enterprise scaling up, our AI tools drive efficiency and growth. Let’s talk about your goals!"
       ]
     },
     {
@@ -215,11 +215,11 @@
         "What is digital transformation?",
         "How do you help with digital transformation?",
         "Can you help my business go digital?",
-        "What’s your approach to digital solutions?"
+        "What's your approach to digital solutions?"
       ],
       "responses": [
-        "Digital transformation with AI Global Networks means automating workflows, enhancing customer engagement, and leveraging AI for smarter decisions. Let’s transform your business!",
-        "We drive digital transformation with AI-powered tools like chatbots, analytics, and CRM integrations, tailored to amplify your brand’s reach. Contact us to start!"
+        "Digital transformation with AI Global Networks means automating workflows, enhancing customer engagement, and leveraging AI for smarter decisions. Let's transform your business!",
+        "We drive digital transformation with AI-powered tools like chatbots, analytics, and CRM integrations, tailored to amplify your brand's reach. Contact us to start!"
       ]
     },
     {
@@ -232,7 +232,7 @@
       ],
       "responses": [
         "Why did the AI join AI Global Networks? It wanted to be part of a *real* transformation, not just another binary decision!",
-        "What’s an AI’s favorite hobby? Debugging life’s problems with a bit of wit and a lot of code!"
+        "What's an AI's favorite hobby? Debugging life's problems with a bit of wit and a lot of code!"
       ]
     }
   ]
