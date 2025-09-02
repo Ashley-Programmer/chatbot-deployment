@@ -43,7 +43,7 @@ class Chatbox {
             name: "User", message: _textOne
         }; // octet
         this.message.push($msgOne);
-
+        
         // 'http://127.0.0.1:5000/predict'
         fetch($SCRIPT_ROOT + '/predict', {
             method: 'POST',
