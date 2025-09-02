@@ -83,3 +83,6 @@ class Chatbox {
         _chatMessage.innerHTML = html;
     }
 }
+
+const chatbox = new _Chatbox();
+chatbox.display();
