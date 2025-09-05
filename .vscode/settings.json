@@ -1,9 +1,13 @@
 {
     "cSpell.words": [
         "aiglobalnetworks",
+        "backpropagate",
         "chatbox",
         "chatmessage",
+        "cuda",
         "endcomment",
+        "feedforward",
+        "Hyperparameters",
         "jsonify",
         "Junaid",
         "Lerato",
@@ -13,6 +17,7 @@
         "Mpho",
         "Mtlomelo",
         "nltk",
+        "numpy",
         "punkt",
         "Rosebank",
         "Sandton",

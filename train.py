@@ -12,9 +12,9 @@ from model import NeuralNet
 with open('intents.json', 'r') as f: # r -> read mode
     intents = json.load(f)
 
-all_words = [] # patterns -> all_words
-tags = [] # tags
-xy = [] # vectors -> holds patterns & tags
+all_words = [] # Empty list for patterns -> all_words
+tags = [] # Empty list for tags
+xy = [] # Empty list for vectors -> holds patterns & tags
 
 # loop through each sentence in our intents patterns
 for intent in intents['intents']:
@@ -23,7 +23,7 @@ for intent in intents['intents']:
 
     for pattern in intent['patterns']:
         words = tokenize(pattern) # tokenize each word in the sentence
-        all_words.extend(words) # add to our words list
+        all_words.extend(words) # add to our words list(extend with tokenized words)
         xy.append((words, tag)) # add to xy pair
 
 # stem and lower each word
