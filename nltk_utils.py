@@ -4,14 +4,12 @@ import nltk
 from nltk.stem.porter import PorterStemmer
 stemmer = PorterStemmer()
 
-
 def tokenize(sentence):
     """
     split sentence into array of words/tokens
     a token can be a word or punctuation character, or number
     """
     return nltk.word_tokenize(sentence)
-
 
 def stem(word):
     """
@@ -22,7 +20,6 @@ def stem(word):
     -> ["organ", "organ", "organ"]
     """
     return stemmer.stem(word.lower())
-
 
 def bag_of_words(tokenized_sentence, words):
     """
