@@ -12,9 +12,9 @@ from model import NeuralNet
 with open('intents.json', 'r') as f: # r -> read mode
     intents = json.load(f)
 
-all_words = [] # patterns -> all_words
-tags = [] # tags
-xy = [] # vectors -> holds patterns & tags
+all_words = [] # Empty list for patterns -> all_words
+tags = [] # Empty list for tags
+xy = [] # Empty list for vectors -> holds patterns & tags
 
 # loop through each sentence in our intents patterns
 for intent in intents['intents']:
