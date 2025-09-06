@@ -25,7 +25,7 @@ model = NeuralNet(input_size, hidden_size, output_size).to(device)
 model.load_state_dict(model_state)
 model.eval()
 
-bot_name = "Sam"
+bot_name = "Smith"
 
 def get_response(msg):
     sentence = tokenize(msg)
@@ -45,7 +45,12 @@ def get_response(msg):
             if tag == intent["tag"]:
                 return random.choice(intent['responses'])
     
-    return "I do not understand..."
+    # Fallback: Provide guidance on available topics
+    available_topics = [intent["tag"] for intent in intents['intents']]
+    guidance = f'''I'm sorry, I didn't understand that. 
+    Here are some topics I can help with: {', '.join(available_topics)}. 
+    Please rephrase your question or choose a topic.'''
+    return guidance
 
 
 if __name__ == "__main__":
